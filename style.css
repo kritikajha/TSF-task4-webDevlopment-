@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+header
+{
+	background-image: url(j-lee-pr0I-DUB5eA-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.welcome h1
+{
+	position: relative;
+	text-align: center;
+	font-family: sans-serif;
+	 
+}
+
+.welcome 
+{
+	position: relative;
+	 
+	font-family: sans-serif;
+	 
+}
